@@ -6,5 +6,4 @@
 | ICCAD | San Diego | 16 May | 30 Oct - 3 November 2022 | https://iccad.com/ | ... |
 | CMMSE | Spain | 31 May (Conf. Paper) | 3-7 July 2022 | https://cmmse.usal.es/cmmse2022/ | ... | 
 | CMMSE | Spain | 10 September (Journal Paper) | 3-7 July 2022 | https://cmmse.usal.es/cmmse2022/ | ... |
-| 16th EU advanced control and diagnosis | ... | 10 september | ... | ... | ... |
-
+| ACD | France | September 10, 2022 | https://acd2022.cran.univ-lorraine.fr/ | --- | --- | 
