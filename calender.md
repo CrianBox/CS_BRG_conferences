@@ -9,6 +9,7 @@
 | CMMSE | Spain | 31 May (Conf. Paper) | 3-7 July 2022 | https://cmmse.usal.es/cmmse2022/ | ... | 
 | CMMSE | Spain | 10 September (Journal Paper) | 3-7 July 2022 | https://cmmse.usal.es/cmmse2022/ | ... |
 | buildsys | USA | 8 July (Abstract) | 9-10 November | https://buildsys.acm.org/2022/cfp/ | 
+| buildsys | USA | 15 July (paper) | 9-10 November | https://buildsys.acm.org/2022/cfp/ | 
 | 16th EU advanced control and diagnosis | ... | 10 september | ... | ... | ... |
 | 6th Edition of the Workshop on Nonlinear System Identification Benchmarks | ... | 27 March 2022 | 25-27 April | https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ficts.kuleuven.be%2Fapps%2Fonebutton%2Fregistrations%2F14241&data=04%7C01%7C%7C3afef2b6eee14cd062e508d9e68a9b7c%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637794305267139696%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=0pkLzBAKaS%2B92LUq628JEdZhmO7iO0ifKlULeQreFF4%3D&reserved=0 | ... |
 | NLsysId mini-course | ... | 27 March 2022 | 28-29 April | https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ficts.kuleuven.be%2Fapps%2Fonebutton%2Fregistrations%2F14253&data=04%7C01%7C%7C3afef2b6eee14cd062e508d9e68a9b7c%7Ccc7df24760ce4a0f9d75704cf60efc64%7C1%7C1%7C637794305267139696%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=5xhwSonFwDGfota9pEuXQ%2FQwJCfbFzN92ywBRKYVcAE%3D&reserved=0 | ... |
