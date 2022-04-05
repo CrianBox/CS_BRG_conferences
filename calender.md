@@ -8,6 +8,7 @@
 | ICCAD | San Diego | 15 August (Final Conf. Paper) | 30 Oct - 3 November 2022 | https://iccad.com/ | ... |
 | CMMSE | Spain | 31 May (Conf. Paper) | 3-7 July 2022 | https://cmmse.usal.es/cmmse2022/ | ... | 
 | CMMSE | Spain | 10 September (Journal Paper) | 3-7 July 2022 | https://cmmse.usal.es/cmmse2022/ | ... |
+| ICMMSE | India | 12 June (paper) | 12-13 Aug | https://icmmse.in/important-dates/
 | buildsys | USA | 8 July (Abstract) | 9-10 November | https://buildsys.acm.org/2022/cfp/ | 
 | buildsys | USA | 15 July (paper) | 9-10 November | https://buildsys.acm.org/2022/cfp/ | 
 | 16th EU advanced control and diagnosis | ... | 10 september | ... | ... | ... |
